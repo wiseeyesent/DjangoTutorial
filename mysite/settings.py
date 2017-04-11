@@ -28,6 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'dev.wiseeyesent.com',
     'localhost',
+    '127.0.0.1',
+    'testserver',
 ]
 
 
